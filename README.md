@@ -12,6 +12,12 @@ I am currently interested in applying recent vision-language models to achieve a
 
 - End2end or sequential model? Adding a filtering net will help improve code-generating performance, given that the input snip might not be clean. 
 
+## Plan
+- Data collection
+  - script that can sample snipping photos
+  - script for generating petty figures, or some example code-figure pairs from some book
+- Surveying and Method design
+
 ## Resources
 
 1. https://github.com/lukas-blecher/LaTeX-OCR
