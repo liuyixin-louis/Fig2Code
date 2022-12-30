@@ -19,5 +19,8 @@ I am currently interested in applying recent vision-language models to achieve a
 - Surveying and Method design
 
 ## Resources
-
 1. https://github.com/lukas-blecher/LaTeX-OCR
+2. An Image is Worth 16x16 Words
+3. Attention Is All You Need
+4. Image-to-Markup Generation with Coarse-to-Fine Attention
+5. https://twitter.com/rasbt/status/1608133663937495041?utm_source=wechat_session&utm_medium=social&utm_oi=651177626656575488
