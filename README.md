@@ -12,11 +12,14 @@ I am currently interested in applying recent vision-language models to achieve a
 
 - End2end or sequential model? Adding a filtering net will help improve code-generating performance, given that the input snip might not be clean. 
 
+- During the reconstruction process, we need to reverse the orignal data. Maybe explicitly model this process might get better performance[6]?
+
 ## Plan
 - Data collection
   - script that can sample snipping photos
   - script for generating petty figures, or some example code-figure pairs from some book
 - Surveying and Method design
+
 
 ## Resources
 1. https://github.com/lukas-blecher/LaTeX-OCR
@@ -24,3 +27,4 @@ I am currently interested in applying recent vision-language models to achieve a
 3. Attention Is All You Need
 4. Image-to-Markup Generation with Coarse-to-Fine Attention
 5. https://twitter.com/rasbt/status/1608133663937495041?utm_source=wechat_session&utm_medium=social&utm_oi=651177626656575488
+6. https://apps.automeris.io/wpd/
