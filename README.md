@@ -2,6 +2,9 @@
 I am trying to use the chatgpt model from openAI for generating python plotting code based on textual or visual inputs. 
 
 ## Example#1
+
+- Input
+
 ```
 Using the python library, such as numpy and matplotlib, to implement the code that plots the following figure. The figure description is as follows:
 1.  The x-axis title is "# of Tokens"
@@ -39,3 +42,6 @@ The lowest line data is given as follows; please generate fake data in the code 
 79, 0.11
 ```
 
+- output graph
+
+![image-20221230171538736](https://s2.loli.net/2022/12/31/ha1CWgdU59Lu4le.png)
